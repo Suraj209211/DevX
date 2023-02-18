@@ -3,7 +3,7 @@ import React from 'react';
 import Header from '../partials/Header';
 import PageIllustration from '../partials/PageIllustration';
 import HeroHome from '../partials/HeroHome';
-import FeaturesBlocks from '../partials/FeaturesBlocks';
+import Domains from '../partials/Domains';
 import JoinUs from '../partials/JoinUs';
 import Footer from '../partials/Footer';
 import ParticleBGLanding from "../partials/ParticleBGLanding";
@@ -38,7 +38,7 @@ function Home() {
 
         {/*  Page sections */}
         <HeroHome />
-        <FeaturesBlocks />
+        <Domains />
         <JoinUs/>
       </main>
 
